@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/ipanccadev/static/css/main.c09a515e.css",
-    "main.js": "/ipanccadev/static/js/main.641919bc.js",
-    "static/media/photo.png": "/ipanccadev/static/media/photo.c4ffc690cc860630dbe7.png",
-    "index.html": "/ipanccadev/index.html",
-    "main.c09a515e.css.map": "/ipanccadev/static/css/main.c09a515e.css.map",
-    "main.641919bc.js.map": "/ipanccadev/static/js/main.641919bc.js.map"
+    "main.css": "/static/css/main.c09a515e.css",
+    "main.js": "/static/js/main.e90cc62f.js",
+    "static/media/photo.png": "/static/media/photo.c4ffc690cc860630dbe7.png",
+    "index.html": "/index.html",
+    "main.c09a515e.css.map": "/static/css/main.c09a515e.css.map",
+    "main.e90cc62f.js.map": "/static/js/main.e90cc62f.js.map"
   },
   "entrypoints": [
     "static/css/main.c09a515e.css",
-    "static/js/main.641919bc.js"
+    "static/js/main.e90cc62f.js"
   ]
 }
